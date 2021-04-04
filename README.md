@@ -9,6 +9,7 @@ read02a | [markdown](https://ayaabudagar.github.io/reading-notes/read02a)
 read02b | [Git & Github](https://ayaabudagar.github.io/reading-notes/read02b)
 read03 | [html](https://ayaabudagar.github.io/reading-notes/read03)
 read04 | [js](https://ayaabudagar.github.io/reading-notes/read04)
+read05 | [js loop](https://ayaabudagar.github.io/reading-notes/read05)
 
 
 # *intrduse my self
