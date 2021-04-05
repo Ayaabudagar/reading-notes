@@ -10,6 +10,8 @@ read02b | [Git & Github](https://ayaabudagar.github.io/reading-notes/read02b)
 read03 | [html](https://ayaabudagar.github.io/reading-notes/read03)
 read04 | [js](https://ayaabudagar.github.io/reading-notes/read04)
 read05 | [js loop](https://ayaabudagar.github.io/reading-notes/read05)
+read06 | [css color](https://ayaabudagar.github.io/reading-notes/read06)
+
 
 
 # *intrduse my self
