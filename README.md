@@ -12,7 +12,12 @@ read04 | [js](https://ayaabudagar.github.io/reading-notes/read04)
 read05 | [js loop](https://ayaabudagar.github.io/reading-notes/read05)
 read06 | [css color](https://ayaabudagar.github.io/reading-notes/read06)
 
+read06 | [GitHub](https://github.com/)
 
+# Code 201 Reading Notes
+name | title
+---  | --- 
+class-01 |  [ Introductory HTML and JavaScript](https://ayaabudagar.github.io/reading-notes/class-01)
 
 # *intrduse my self
 im aya abu dagar 23 yers old
