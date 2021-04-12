@@ -19,6 +19,10 @@ name | title
 ---  | --- 
 class-01 |  [ Introductory HTML and JavaScript](https://ayaabudagar.github.io/reading-notes/class-01)
 class-02 |  [ Basics of HTML, CSS & JS](https://ayaabudagar.github.io/reading-notes/class-02)
+class-03 |  [ HTML Lists, Control Flow with JS](https://ayaabudagar.github.io/reading-notes/class-03)
+
+
+
 # *intrduse my self
 im aya abu dagar 23 yers old
 im fresh graduation from al albayt university from the architecture department and im so excited to learn web developmnt and development the way that i think with it 

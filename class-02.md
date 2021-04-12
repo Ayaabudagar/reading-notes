@@ -91,3 +91,40 @@ Example:
             h1{
                      color:red;         //.css file
                  }
+
+# Decisions and Loops 
+
+Scripts often need to behave differently depending upon how the user interacts with the web
+page and/or the browser window itself. To determine which path to take, programmers often
+rely upoDecisions and Loopsn the following three concepts:
+*EVALUATIONS*
+You can analyze values in your scripts to determine whether or note they
+match expected results.
+DECISIONS
+Using the results of evaluations, you can decide which path your script should go down.
+
+LOOPS There are also many occasions where you will want to perform the same
+set of steps repeatedly.
+
+# A switch statement 
+starts with a variable called the switch value.
+Each case indicates a possible value for this variable and the code that should run if the
+variable matches that value.
+Here, the variable named 1 eve l is the switch value. If the value of the l eve 1 variable is the string One,
+then the code for the first case is executed. 
+If it is Two, the second case is executed. If it is Three, the third case is executed. If it is none of these, the code for the defaul t case is executed.
+The entire statement lives in one code block (set of curly braces), and a colon separates the option
+from the statements that are to be run if the case matches the switch value.
+At the end of each case is the break keyword. It tells the JavaScript interpreter that it has finished with
+this switch statement and to proceed to run any subsequent code that appears after it.
+
+**IF ... ELSE**
+• There is no need to provide an el se option. (You can just use an if
+statement.)
+• With a series of if statements, they are all checked even if a match has been found
+(so it performs more slowly than switch).
+**SWITCH**
+• You have a default option that is run if none of the cases match.
+• If a match is found, that code is run; then the break statement stops the rest of
+the switch statement running (providing better performance than multiple i f
+statements).
