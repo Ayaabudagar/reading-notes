@@ -20,6 +20,7 @@ name | title
 class-01 |  [ Introductory HTML and JavaScript](https://ayaabudagar.github.io/reading-notes/class-01)
 class-02 |  [ Basics of HTML, CSS & JS](https://ayaabudagar.github.io/reading-notes/class-02)
 class-03 |  [ HTML Lists, Control Flow with JS](https://ayaabudagar.github.io/reading-notes/class-03)
+class-04 |  [  HTML Links, CSS Layout, JS Functions ](https://ayaabudagar.github.io/reading-notes/class-04)
 
 
 
