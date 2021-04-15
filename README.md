@@ -21,6 +21,8 @@ class-01 |  [ Introductory HTML and JavaScript](https://ayaabudagar.github.io/re
 class-02 |  [ Basics of HTML, CSS & JS](https://ayaabudagar.github.io/reading-notes/class-02)
 class-03 |  [ HTML Lists, Control Flow with JS](https://ayaabudagar.github.io/reading-notes/class-03)
 class-04 |  [  HTML Links, CSS Layout, JS Functions ](https://ayaabudagar.github.io/reading-notes/class-04)
+class-05 |  [  HTML Images; CSS Color & Text ](https://ayaabudagar.github.io/reading-notes/class-05)
+
 
 
 
