@@ -23,6 +23,7 @@ class-03 |  [ HTML Lists, Control Flow with JS](https://ayaabudagar.github.io/re
 class-04 |  [  HTML Links, CSS Layout, JS Functions ](https://ayaabudagar.github.io/reading-notes/class-04)
 class-05 |  [  HTML Images; CSS Color & Text ](https://ayaabudagar.github.io/reading-notes/class-05)
 class-06 |  [ Problem Domain, Objects, and the DOM ](https://ayaabudagar.github.io/reading-notes/class-06)
+class-07 |  [ HTML Tabels,js Constructor function ](https://ayaabudagar.github.io/reading-notes/class-07)
 
 
 
