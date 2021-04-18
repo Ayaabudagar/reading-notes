@@ -10,7 +10,7 @@ By default, the text in <th> elements are bold and centered.
 By default, the text in <td> elements are regular and left-aligned.
 Example
 A simple HTML table:
-
+<!-- 
 <table style="width:100%">
   <tr>
     <th>Firstname</th>
@@ -27,7 +27,7 @@ A simple HTML table:
     <td>Jackson</td>
     <td>94</td>
   </tr>
-</table>
+</table> -->
 
 *HTML Table - Add a Border*
 To add a border to a table, use the CSS border property
