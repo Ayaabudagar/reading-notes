@@ -25,6 +25,8 @@ class-05 |  [  HTML Images; CSS Color & Text ](https://ayaabudagar.github.io/rea
 class-06 |  [ Problem Domain, Objects, and the DOM ](https://ayaabudagar.github.io/reading-notes/class-06)
 class-07 |  [ HTML Tabels,js Constructor function ](https://ayaabudagar.github.io/reading-notes/class-07)
 class-08 |  [ CSS Layout ](https://ayaabudagar.github.io/reading-notes/class-08)
+class-09 |  [ Forms and JS Events ](https://ayaabudagar.github.io/reading-notes/class-09)
+
 
 
 
