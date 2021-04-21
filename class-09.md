@@ -62,4 +62,3 @@ HTML allows event handler attributes, with JavaScript code, to be added to HTML 
 With single quotes:
 
 <element event='some JavaScript'>
-
