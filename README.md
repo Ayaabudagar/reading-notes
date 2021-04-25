@@ -28,6 +28,7 @@ class-08 |  [ CSS Layout ](https://ayaabudagar.github.io/reading-notes/class-08)
 class-09 |  [ Forms and JS Events ](https://ayaabudagar.github.io/reading-notes/class-09)
 class-10 |  [  Debugging ](https://ayaabudagar.github.io/reading-notes/class-10)
 class-11|  [  Audio, Video, Images ](https://ayaabudagar.github.io/reading-notes/class-11)
+class-12|  [  Chart.js, Canvas](https://ayaabudagar.github.io/reading-notes/class-12)
 
 
 
