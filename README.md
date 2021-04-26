@@ -29,6 +29,8 @@ class-09 |  [ Forms and JS Events ](https://ayaabudagar.github.io/reading-notes/
 class-10 |  [  Debugging ](https://ayaabudagar.github.io/reading-notes/class-10)
 class-11|  [  Audio, Video, Images ](https://ayaabudagar.github.io/reading-notes/class-11)
 class-12|  [  Chart.js, Canvas](https://ayaabudagar.github.io/reading-notes/class-12)
+class-13|  [  Local Storage](https://ayaabudagar.github.io/reading-notes/class-13)
+
 
 
 
