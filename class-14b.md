@@ -1,0 +1,8 @@
+# What Google Learned From Its Quest to Build the Perfect Team
+Psychological safety: Everyone feels safe in taking risks around their team members, and that they won’t be embarrassed or punished for doing so. Dependability: Everyone completes quality work on time. Structure and clarity: Everyone knows what their specific expectations are Put five, eight, 12 or more people together in a room, and it’s a crapshoot as to how well they’ll function as a team. The larger the group, the more difficult it becomes. It’s a lot like dining out with a bunch of friends. Where to go? Italian? Vegetarian? Steakhouse? Each person has their own appetite, which can make creating a “shared-interest” extremely challenging. Shared-interest is the lifeblood of teams, and only the most successful companies know how to foster it. But how? That’s exactly what Google wanted to learn in 2012, when it embarked on a quest to discover how to build the “perfect team.” The experiment, led by Abeer Dubey, a manager in Google’s People Analytics division, was called “Project Aristotle.” Instead, the researchers found that there were five key characteristics of enhanced teams:
+
+Psychological safety: Everyone feels safe in taking risks around their team members, and that they won’t be embarrassed or punished for doing so
+Dependability: Everyone completes quality work on time.
+Structure and clarity: Everyone knows what their specific expectations are. These expectations must be challenging yet attainable.
+Meaning: Everyone has a sense of purpose in their work (i.e., financial security, supporting family, helping the team succeed, etc.).
+Impact: Everyone sees that the result of their work actually contributes to the organization’s overall goals.

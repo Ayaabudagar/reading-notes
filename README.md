@@ -30,6 +30,9 @@ class-10 |  [  Debugging ](https://ayaabudagar.github.io/reading-notes/class-10)
 class-11|  [  Audio, Video, Images ](https://ayaabudagar.github.io/reading-notes/class-11)
 class-12|  [  Chart.js, Canvas](https://ayaabudagar.github.io/reading-notes/class-12)
 class-13|  [  Local Storage](https://ayaabudagar.github.io/reading-notes/class-13)
+class-14a|  [ CSS Transforms, Transitions, and Animations](https://ayaabudagar.github.io/reading-notes/class-14a)
+class-14b|  [ What Google Learned About Teams](https://ayaabudagar.github.io/reading-notes/class-14b)
+
 
 
 
