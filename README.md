@@ -41,7 +41,7 @@ class-14b|  [ What Google Learned About Teams](https://ayaabudagar.github.io/rea
 Code 301 - Intermediate Software Development
 name | title
 ---  | --- 
-class-01 |  [ Introduction to React and Components](https://ayaabudagar.github.io/reading-notes/class-01)
+class01 |  [ Introduction to React and Components](https://ayaabudagar.github.io/reading-notes/class01)
 
 
 
