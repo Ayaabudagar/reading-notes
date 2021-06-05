@@ -1,5 +1,6 @@
 # reading-notes
 table of context
+Code 102 - Intro to Software Development
 
 name | title
 ---  | --- 
@@ -13,6 +14,9 @@ read05 | [js loop](https://ayaabudagar.github.io/reading-notes/read05)
 read06 | [css color](https://ayaabudagar.github.io/reading-notes/read06)
 
 read06 | [GitHub](https://github.com/)
+
+
+Code 201 - Foundations of Software Development
 
 # Code 201 Reading Notes
 name | title
@@ -34,6 +38,10 @@ class-14a|  [ CSS Transforms, Transitions, and Animations](https://ayaabudagar.g
 class-14b|  [ What Google Learned About Teams](https://ayaabudagar.github.io/reading-notes/class-14b)
 
 
+Code 301 - Intermediate Software Development
+name | title
+---  | --- 
+class-01 |  [ Introduction to React and Components](https://ayaabudagar.github.io/reading-notes/class-01)
 
 
 
