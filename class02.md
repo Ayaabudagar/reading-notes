@@ -1,4 +1,4 @@
-# State and Props
+# Component cycle
 
 * what happens first, the ‘render’ or the ‘componentDidMount’?
 
