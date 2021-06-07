@@ -43,6 +43,8 @@ name | title
 ---  | --- 
 class01 |  [ Introduction to React and Components](https://ayaabudagar.github.io/reading-notes/class01)
 class02 |  [ State and Props](https://ayaabudagar.github.io/reading-notes/class02)
+class03 |  [ Passing Functions as Props](https://ayaabudagar.github.io/reading-notes/class03)
+
 
 
 
