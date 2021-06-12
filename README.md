@@ -46,6 +46,7 @@ class02 |  [ State and Props](https://ayaabudagar.github.io/reading-notes/class0
 class03 |  [ Passing Functions as Props](https://ayaabudagar.github.io/reading-notes/class03)
 class04 |  [ React and Forms](https://ayaabudagar.github.io/reading-notes/class04)
 class05 |  [  Putting it all together](https://ayaabudagar.github.io/reading-notes/class05)
+class06 |  [ NODE.JS](https://ayaabudagar.github.io/reading-notes/class06)
 
 
 
