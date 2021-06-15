@@ -48,9 +48,8 @@ class04 |  [ React and Forms](https://ayaabudagar.github.io/reading-notes/class0
 class05 |  [  Putting it all together](https://ayaabudagar.github.io/reading-notes/class05)
 class06 |  [ NODE.JS](https://ayaabudagar.github.io/reading-notes/class06)
 class07 |  [REST](https://ayaabudagar.github.io/reading-notes/class07)
-class08 |  [REST](https://ayaabudagar.github.io/reading-notes/class08)
-
-
+class08 |  [APIs](https://ayaabudagar.github.io/reading-notes/class08)
+class08 |  [FUNCTIONAL PROGRAMMING](https://ayaabudagar.github.io/reading-notes/class09)
 
 
 
