@@ -49,9 +49,8 @@ class05 |  [  Putting it all together](https://ayaabudagar.github.io/reading-not
 class06 |  [ NODE.JS](https://ayaabudagar.github.io/reading-notes/class06)
 class07 |  [REST](https://ayaabudagar.github.io/reading-notes/class07)
 class08 |  [APIs](https://ayaabudagar.github.io/reading-notes/class08)
-class08 |  [FUNCTIONAL PROGRAMMING](https://ayaabudagar.github.io/reading-notes/class09)
-
-
+class09 |  [FUNCTIONAL PROGRAMMING](https://ayaabudagar.github.io/reading-notes/class09)
+class10 |  [In memory storage](https://ayaabudagar.github.io/reading-notes/class10)
 
 
 
