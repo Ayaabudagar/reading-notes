@@ -51,6 +51,7 @@ class07 |  [REST](https://ayaabudagar.github.io/reading-notes/class07)
 class08 |  [APIs](https://ayaabudagar.github.io/reading-notes/class08)
 class09 |  [FUNCTIONAL PROGRAMMING](https://ayaabudagar.github.io/reading-notes/class09)
 class10 |  [In memory storage](https://ayaabudagar.github.io/reading-notes/class10)
+class11 |  [Authentication](https://ayaabudagar.github.io/reading-notes/class11)
 
 
 
