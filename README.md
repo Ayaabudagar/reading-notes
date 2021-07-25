@@ -60,6 +60,7 @@ class13 |  [CRUD](https://ayaabudagar.github.io/reading-notes/class13)
 name | title
 ---  | --- 
  Read:01 |  [ Java Basic](https://ayaabudagar.github.io/reading-notes/Read:01)
+ Read:02 |  [ Arrays, Loops, Imports](https://ayaabudagar.github.io/reading-notes/Read:02)
 
 
 
