@@ -63,7 +63,7 @@ name | title
  Read:02 |  [ Arrays, Loops, Imports](https://ayaabudagar.github.io/reading-notes/Read:02)
  Read:03 |  [ Maps, primitives, File I/O](https://ayaabudagar.github.io/reading-notes/Read:03)
  Read:04 |  [ OOP](https://ayaabudagar.github.io/reading-notes/Read:04)
-
+ Read:05 |  [Linked Lists](https://ayaabudagar.github.io/reading-notes/Read:05)
 
 
 
