@@ -66,6 +66,7 @@ name | title
  Read:05 |  [Linked Lists](https://ayaabudagar.github.io/reading-notes/Read:05)
  Read:06 |  [ Inheritance and Interfaces](https://ayaabudagar.github.io/reading-notes/Read:06)
  Read:08 |  [OO Design](https://ayaabudagar.github.io/reading-notes/Read:08)
+ Read:09 |  [WRRC and Java](https://ayaabudagar.github.io/reading-notes/Read:09)
 
 
 
