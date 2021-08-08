@@ -70,7 +70,7 @@ name | title
  Read:09 |  [WRRC and Java](https://ayaabudagar.github.io/reading-notes/Read:09)
  Read:10 |  [Stacks & Queues](https://ayaabudagar.github.io/reading-notes/Read:10)
  Read:11 |  [Spring](https://ayaabudagar.github.io/reading-notes/Read:11)
-
+ Read:12 |  [Spring RESTful Routing & Static Files](https://ayaabudagar.github.io/reading-notes/Read:12)
 
 
 
