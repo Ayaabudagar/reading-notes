@@ -19,7 +19,7 @@
 
 **Sample Tree**
 
-![sample tree](/img/1.PNG)
+![sample tree](/img/3.PNG)
 
 **Traversals**
 
@@ -114,13 +114,13 @@ Breadth first traversal uses a queue (instead of the call stack via recursion) t
 
 Binary Trees restrict the number of children to two (hence our left and right children).
 
-![binary tree](/img/2.PNG)
+![binary tree](/img/1.PNG)
 
 ## K-ary Trees
 
 If Nodes are able have more than 2 child nodes, we call the tree that contains them a K-ary Tree.
 
-![K tree](../img/KTree.png)
+![K tree](/img/2.png)
 
 * Breadth First Traversal: Traversing a K-ary tree requires a similar approach to the breadth first traversal. We are still pushing nodes into a queue, but we are now moving down a list of children of length k, instead of checking for the presence of a left and a right child. 
 
