@@ -76,6 +76,8 @@ name | title
  Read:16 |  [Spring Authentication](https://ayaabudagar.github.io/reading-notes/Read:16)
  Read:17 |  [Spring Authorization](https://ayaabudagar.github.io/reading-notes/Read:17)
  Read:18 |  [Web App Security](https://ayaabudagar.github.io/reading-notes/Read:18)
+ Read:19 |  [Spring and Sockets](https://ayaabudagar.github.io/reading-notes/Read:18)
+
 
 
 
