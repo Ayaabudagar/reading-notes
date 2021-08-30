@@ -79,6 +79,7 @@ name | title
  Read:19 |  [Spring and Sockets](https://ayaabudagar.github.io/reading-notes/Read:19)
  Read:26 |  [Android Fundamentals](https://ayaabudagar.github.io/reading-notes/Read:26)
  Read:27 |  [Intents, Activities, and SharedPreferences](https://ayaabudagar.github.io/reading-notes/Read:27)
+ Read:28 |  [RecyclerView](https://ayaabudagar.github.io/reading-notes/Read:28)
 
 
 
