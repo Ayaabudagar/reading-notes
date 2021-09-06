@@ -83,7 +83,8 @@ name | title
  Read:29 |  [Room](https://ayaabudagar.github.io/reading-notes/Read:29)
  Read:30 |  [Hash Table](https://ayaabudagar.github.io/reading-notes/Read:30)
  Read:31 |  [Espresso](https://ayaabudagar.github.io/reading-notes/Read:31)
- Read:31 |  [Serverless and Amplify](https://ayaabudagar.github.io/reading-notes/Read:32)
+ Read:32 |  [Serverless and Amplify](https://ayaabudagar.github.io/reading-notes/Read:32)
+ Read:33 |  [GraphQL @connection](https://ayaabudagar.github.io/reading-notes/Read:33)
 
 
 
