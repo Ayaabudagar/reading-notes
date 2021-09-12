@@ -85,6 +85,8 @@ name | title
  Read:31 |  [Espresso](https://ayaabudagar.github.io/reading-notes/Read:31)
  Read:32 |  [Serverless and Amplify](https://ayaabudagar.github.io/reading-notes/Read:32)
  Read:33 |  [GraphQL @connection](https://ayaabudagar.github.io/reading-notes/Read:33)
+ Read:35 |  [Graphs](https://ayaabudagar.github.io/reading-notes/Read:35)
+ Read:36 |  [Cognito](https://ayaabudagar.github.io/reading-notes/Read:36)
 
 
 
