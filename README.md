@@ -89,6 +89,7 @@ name | title
  Read:36 |  [Cognito](https://ayaabudagar.github.io/reading-notes/Read:36)
  Read:37 |  [S3](https://github.com/Ayaabudagar/reading-notes/blob/main/Read:37.md)
  Read:38 |  [Notifications](https://github.com/Ayaabudagar/reading-notes/blob/main/Read:38.md)
+ Read:39 |  [Notifications](https://github.com/Ayaabudagar/reading-notes/blob/main/Read:39.md)
 
 
 
