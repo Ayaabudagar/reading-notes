@@ -91,6 +91,8 @@ name | title
  Read:38 |  [Notifications](https://github.com/Ayaabudagar/reading-notes/blob/main/Read:38.md)
  Read:39 |  [Notifications](https://github.com/Ayaabudagar/reading-notes/blob/main/Read:39.md)
  Read:41 |  [Intent Filters](https://github.com/Ayaabudagar/reading-notes/blob/main/Read:41.md)
+ Read:42 |  [Location](https://github.com/Ayaabudagar/reading-notes/blob/main/Read:42.md)
+
 
 
 
